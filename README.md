@@ -73,7 +73,7 @@ YET TO BE IMPLEMENTED...
 	Location of HTML file: osvirtuallab-master/CPU_Scheduling/Priority_CPU
 	Location of JS file: osvirtuallab-master/Assets/js/CPU_Priority
 
-Comparison between algorithms (CPU scheduling) step-by-step:
+Comparison between algorithms (CPU scheduling) step-by-step:<br>
 Step-1: Click on 'Compare' button in the nav bar.<br>
 Step-2: Enter comma separated valid input values for arrival time, burst time, priority and time quantum to get comparison of all 5 algorithms on basis of avg turn around time and avg waiting time in tabular as well as graphical form.
 
