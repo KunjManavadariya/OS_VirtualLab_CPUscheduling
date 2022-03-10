@@ -39,7 +39,7 @@ YET TO BE IMPLEMENTED...
 
 # How to Run our code:
 <ol>
-<li> Go to link - https://github.com/Atri10/osvirtuallab</li>
+<li> Go to link - https://github.com/KunjManavadariya/OS_VirtualLab_CPUscheduling</li>
 <li> Click on the green drop down button named 'Code'</li>
 <li> Now click on the 'Download ZIP' to download the zip file of the full code on your machine.</li>
 <li> Extract the downloaded file on your desired location.</li>
